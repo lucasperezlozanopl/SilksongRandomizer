@@ -1,6 +1,6 @@
 {
     "namespace": "SilksongRandomizer",
-    "name": "SilksongRandomizer_0.1",
+    "name": "SilksongRandomizer_01",
     "version_number": "0.1.0",
     "website_url": "https://github.com/lucasperezlozanopl/SilksongRandomizer",
     "description": "This is just the FIRST VERSION, expect bugs and softlock.",
@@ -8,3 +8,4 @@
     "BepInEx-BepInExPack_Silksong-5.4.2304"
   ]
 }
+
